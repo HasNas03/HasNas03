@@ -1,4 +1,4 @@
-Hi, I'm Hasan! I'm a 2nd year undergraduate student at UTM, doing CS @ UOFT
+Hi, I'm Hasan! I'm a 2nd year undergraduate student at UTM, doing CS @ UofT
 
 Interested in web development and information/computer security
 
