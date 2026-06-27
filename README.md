@@ -20,8 +20,6 @@
 
 ## My Experience
 
-## My Experience
-
 | Company | Role | Term |
 |:---|:---|:---|
 | **Interac Corporation** <br> | Cloud Engineer Co-op | **Jan. – Aug. 2025** |
