@@ -36,7 +36,7 @@
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=spring,postgres,maven,postman,git,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,maven,postman,git,githubactions&theme=dark" />
 
 **Cloud & Infrastructure**
 
