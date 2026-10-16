@@ -13,7 +13,7 @@
 > location   : Toronto, Canada
 > education  : HBSc Computer Science, Applied Statistics, & Geospatial Data Science @ University of Toronto
 > looking_for: New Grad SWE / Cloud opportunities
-> fun_fact   : obsessed with Star Wars and Marvel
+> fun_fact   : love Star Wars and Marvel/DC
 ```
 
 ---
